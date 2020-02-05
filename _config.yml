@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:https://www.facebook.com/profile.php?id=100040682680379
+    url: https://www.facebook.com/profile.php?id=100040682680379
   - title: github
     url: http://github.com/kimtaejin3
 
