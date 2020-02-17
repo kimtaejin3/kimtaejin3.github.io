@@ -1,7 +1,7 @@
 # Site Info
 title: Taejin KIM
 tagline: 'Taejin Kim BLOG'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: '웹, 보안, 알고리즘에 관심이 많은 초보 개발자'
 baseurl: ""
 url: http://kimtaejin3/github.io
 logo: '/public/logo.png'
