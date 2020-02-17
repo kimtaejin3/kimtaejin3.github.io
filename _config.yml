@@ -1,6 +1,6 @@
 # Site Info
 title: Taejin KIM
-tagline: 'A Jekyll theme based on Lanyon'
+tagline: 'Taejin Kim BLOG'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://kimtaejin3/github.io
@@ -30,7 +30,7 @@ author:
   contact:
     github:    https://github.com/kimtaejin3
     facebook:  https://www.facebook.com/profile.php?id=100040682680379
-    email: rlaxowls1316@naver.com
+    #email: rlaxowls1316@naver.com
 
 # Navigation (2nd level links supported)
 nav:
