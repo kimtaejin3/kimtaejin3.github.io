@@ -51,7 +51,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/nhn.png
-  caption: NHN; 
+  caption: 바꿀예정(임시사진입니다.) 
 
 # Puglins
 mathjax: true # whether support mathjax
