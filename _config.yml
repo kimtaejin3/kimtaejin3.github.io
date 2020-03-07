@@ -50,8 +50,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/nhn.png
-  caption: 바꿀예정(임시사진입니다.) 
+  image: /public/img/2172250.jpg
+  caption: 
 
 # Puglins
 mathjax: true # whether support mathjax
