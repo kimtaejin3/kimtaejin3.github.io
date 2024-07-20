@@ -44,10 +44,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          <strong>{author.name} (Pearl) :</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a target="_blank" href={`https://github.com/kimtaejin3`}>
+            김태진의 깃허브 프로필 보러가기
           </a>
         </p>
       )}
