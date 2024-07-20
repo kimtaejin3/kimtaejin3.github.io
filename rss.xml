@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jul 2024 04:45:12 GMT</lastBuildDate><item><title><![CDATA[2024 오픈소스 컨트리뷰션 아카데미 발대식 후기]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-source/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-source/</guid><pubDate>Sat, 20 Jul 2024 04:31:12 GMT</pubDate><content:encoded>&lt;h2&gt;개발인생 첫 뜻깊은 대외활동&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jul 2024 04:56:40 GMT</lastBuildDate><item><title><![CDATA[2024 오픈소스 컨트리뷰션 아카데미 발대식 후기]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-source/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-source/</guid><pubDate>Sat, 20 Jul 2024 04:31:12 GMT</pubDate><content:encoded>&lt;h2&gt;개발인생 첫 뜻깊은 대외활동&lt;/h2&gt;
 &lt;p&gt;오픈소스 컨트리뷰션 아카데미라는 대외활동이 있다는 것은 알고 있었지만 나는 이미 오픈소스 기여경험이 있었고 이 활동을 주변에 한 사람들이 없어서 따로 선발일정이나 기타 정보를 찾아보지 않았었다. 하지만 우연히 코딩을 하면서 구글링을 하다가 본 대외활동에서 멘티를 모집중이라는 것을 알게 되었다.&lt;/p&gt;
 &lt;p&gt;어떤 오픈소스 프로젝트들이 있나 보니까 바로 &lt;strong&gt;Node.js&lt;/strong&gt;가 있었다. 프론트 개발을 하며 &lt;strong&gt;Node.js&lt;/strong&gt;는 정말 빼 놓을 수 없는 중요한 존재이기 때문에 이 프로젝트에 기여하면 내 개발 커리어에 큰 영향을 줄 수 있겠다는 것을 확신했다. 내가 멘티를 모집한다는 것을 알게된 날이 모집을 마감하는 날이었다. 빨리 자소서를 쓰고 내야 겠다는 생각에 조급했지만 내가 이 프로젝트를 잘 참여할 수 있는 근거를 적고 아직 경험없는 대학생이기 때문에 열정을 많이 어필하였다.&lt;/p&gt;
 &lt;h2&gt;기대하던 합격 메일을 받다!&lt;/h2&gt;
@@ -103,7 +103,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;발대식은 강남에 위치한 한국과학기술회간에서 B1에서 진행하였다. 도착하여 키트와 명찰을 수령하고 간식을 챙겨서 자리에 앉았다.&lt;/p&gt;
+&lt;p&gt;발대식은 강남에 위치한 한국과학기술회간 B1에서 진행하였다. 도착하여 키트와 명찰을 수령하고 간식을 챙겨서 자리에 앉았다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
