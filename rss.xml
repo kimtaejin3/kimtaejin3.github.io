@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jul 2024 06:32:17 GMT</lastBuildDate><item><title><![CDATA[2024 오픈소스 컨트리뷰션 아카데미 발대식 후기]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-source/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-source/</guid><pubDate>Sat, 20 Jul 2024 04:31:12 GMT</pubDate><content:encoded>&lt;h2&gt;개발인생 첫 뜻깊은 대외활동&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Jul 2024 13:51:03 GMT</lastBuildDate><item><title><![CDATA[Node.js 빌드 및 테스트]]></title><description><![CDATA[Node.js 용어 Built-in(s), Built-in module(s): Node core에 내장되어 있는 자바스크립트 코드 (C++) bindings: JS Builtins에서 사용되는 C++로 돌아가는 코드 addons: Dynamically…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/node-build/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/node-build/</guid><pubDate>Sun, 28 Jul 2024 04:31:12 GMT</pubDate><content:encoded>&lt;h2&gt;Node.js 용어&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Built-in(s), Built-in module(s)&lt;/strong&gt;: Node core에 내장되어 있는 자바스크립트 코드&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;(C++) bindings&lt;/strong&gt;: JS Builtins에서 사용되는 C++로 돌아가는 코드&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;addons&lt;/strong&gt;: Dynamically-linked shared objects provide APIs via Node-API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Node.js 구조&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 573px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c53d25ac71d2065da9ae919d07da8ae4/3c024/image.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.15189873417721%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC4klEQVR42o1SXU/TUBjmH3htjAE18Vf4A/wBekXEr3vjFcYLDTEoicKASAJKRBmgMLa13RhtV9qu0K7rPtp98jVilG1Eg/GCCxQYPJ6ejQ/jjU2evM97nvc873t6Tkv98BDmVhFyzYFay56i2gThyllOoNVy2PhRgbJpI0Z4dDONjZ9VuF/Lr73fuBZ8iPOz7Wjz30Gr/3YDvg60Dt1A28dbuMzew6XAXbp+0d+Bq/776Fn04sLoTVx5145zfdfRY042DOv1OkrFIhzbRtZx/oGdzsDQdViJxF/rhUKBxCxy2RwypKZSqTQM9/b2MBcOQxAEiKJ4gmg0CkmSECaax+PB2NgYzY/r3MjzPOWBQADpVOrUkGVZOKRrsVRCnnR2uztZB/l8Hhk7A1mRYRjGiX5cUy6X6WSKosA0zYbh/v4+ggyDRU2DRmAYcVIgY2LCi/HxDxQTXi8YUrO0tEh0nWyOQ1UV2sQ1dqdMkF9yYuiOHAxymPEFEJUU0iCEuYhAIgc1poHlQpjnRTBsmJgkYMQTWJBjpIaHqi0hEplH0rKaR94/AMf4UNCHsWq9RSk+gmVzBCuJN3C0IXBTzyD4X0DnPbDVIWTU13BiQ4iLJCf6emoUoeB7WFb62LCOEPMJn+NPUVjoxPdcN5Zjj1FJdiEvdWKFcJ15QPQnKMqPsLv+CrvlXnzLduOr1YWfpedgpgdgJe3jIx+AZfxgZnoR8vchEuxH2O+hfC7ogcANgvW9BOfrxTzTDzE0SMGzA7SOZ/sxNTGMFHk6J7fMhTlYy3Gk1hI0JlcThFs0pteTYKQglJQMeyNN112k15JUy32xIWgRcmTrzC2z5DLMEESDRUCYBCdPwywqNF+0BUgmabiiQsvwsMs69GyUxuJmEqtbaXDR2VNDd8IQmVDWBajxKIlig5sSFJK7kA2RaBLVT9HIl1IK2EgAqWTzYR8dHWF7exvVSrWJWhPV/0e1hp2dHWr4B2HDk+pNX6ZZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c53d25ac71d2065da9ae919d07da8ae4/3c024/image.png&quot;
+        srcset=&quot;/static/c53d25ac71d2065da9ae919d07da8ae4/c26ae/image.png 158w,
+/static/c53d25ac71d2065da9ae919d07da8ae4/6bdcf/image.png 315w,
+/static/c53d25ac71d2065da9ae919d07da8ae4/3c024/image.png 573w&quot;
+        sizes=&quot;(max-width: 573px) 100vw, 573px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Node.js / node 디렉토리 구조&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;lib&lt;/strong&gt;: Javascript builtins (lib/**/*.js, internals, internal/bootstrap)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;src&lt;/strong&gt;: src/node_**.cc(bindings), node_api.h (addons), node_main.cc, env.cc&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;deps&lt;/strong&gt;: v8, libuv, zlib, openssl, undici, sqlite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tools&lt;/strong&gt;: test.py, gyp, lint-md, dep_updaters, actions/conmmit-queue...&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;test&lt;/strong&gt;: parallel, sequential, cctest, addons, wpt,...&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;benchmark&lt;/strong&gt;: compare.js, benchmark/**/*.js&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typings&lt;/strong&gt;: internal modules code completions (tsconfig.json)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;doc&lt;/strong&gt;: *.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;빌드 과정&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;configuraton&lt;/li&gt;
+&lt;li&gt;build&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./configure
+make -j4&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;빌드 과정&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;빌드는 실행 파일을 만드는 것.&lt;/li&gt;
+&lt;li&gt;구현된 소스 파일 각각을 machine code로 만든다.&lt;/li&gt;
+&lt;li&gt;obj, library를 통합해 executable를 만든다.&lt;/li&gt;
+&lt;li&gt;Compiler, Linker를 다룰때 많은 파일, 설정이 있는 경우 하나씩 옵션으로 전달하기 어려우므로 make나 ninja 등의 빌드툴을 사용한다.&lt;/li&gt;
+&lt;li&gt;make를 이용하여 configuration을 직접 작성하는 것도 어렵기에 다른 빌드툴을 쓴다. (gyp, gn)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1c39df7d3e493d94f9f700c32a958c6c/bf433/image-1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.810126582278485%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA20lEQVR42o1R2QqDQBDb//838UVEvBAv8MAbvE3JwBbBtnQgxF3GTDKrbNtGlmUgJ0kC1nVduBfPd/wq1fc9yrIUNE2DdV0xz7PwPwIPwbZt4bouwjBEmqYYx1HEu67DeZ4oigKWZcH3fekLggD7vn8X/HQ5TROGYcC2bcJMwTsOI2vXn9agjuMAXdIRf2Rcgi402HPHsizCuvjN4WTFXTEGI/Nx2ExXRBRFcs+ohmHAcRw5cwVVVck6yHmewzRNWdkjMvemnTEiheme4nEcv4fph2NfXdfwPE+EX77FG4ZleeB0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1c39df7d3e493d94f9f700c32a958c6c/f058b/image-1.png&quot;
+        srcset=&quot;/static/1c39df7d3e493d94f9f700c32a958c6c/c26ae/image-1.png 158w,
+/static/1c39df7d3e493d94f9f700c32a958c6c/6bdcf/image-1.png 315w,
+/static/1c39df7d3e493d94f9f700c32a958c6c/f058b/image-1.png 630w,
+/static/1c39df7d3e493d94f9f700c32a958c6c/40601/image-1.png 945w,
+/static/1c39df7d3e493d94f9f700c32a958c6c/bf433/image-1.png 971w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Configuraton을 통해 out/Makefile, out/&lt;strong&gt;/*.mk, out/&lt;/strong&gt;/build.ninja 등 빌드 구성 생성&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GYP, tools/gyp 를 사용, Chromium project, Python 사용. make와 ninja 빌드용 configuration 파일을 생성 가능&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;gyp는 오랫동안 maintained 되지 않음. GN이 대체제이고, 비공식적으로 supported 중.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;configuration.py는 사용자 옵션 및 빌드환경을 기록한 config.gypi를 생성하고 gyp를 실행&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Node.js 빠른 빌드&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;make -j$(nproc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Node.js Test&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;test/parallel&lt;/strong&gt;: 병렬로 실행가능한 테스트. 일반적인 각 모듈의 대한 테스트는 이곳에 작성&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;test/sequential&lt;/strong&gt;: 순차적으로 실행되어야 하는 테스트&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;test/addons&lt;/strong&gt;: Node-API 테스트&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;test/wpt&lt;/strong&gt;: Web 호환성 테스트, Web platform Test 사용&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[2024 오픈소스 컨트리뷰션 아카데미 발대식 후기]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-source/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-source/</guid><pubDate>Sat, 20 Jul 2024 04:31:12 GMT</pubDate><content:encoded>&lt;h2&gt;개발인생 첫 뜻깊은 대외활동&lt;/h2&gt;
 &lt;p&gt;오픈소스 컨트리뷰션 아카데미라는 대외활동이 있다는 것은 알고 있었지만 나는 이미 오픈소스 기여경험이 있었고 이 활동을 주변에 한 사람들이 없어서 따로 선발일정이나 기타 정보를 찾아보지 않았었다. 하지만 우연히 코딩을 하면서 구글링을 하다가 본 대외활동에서 멘티를 모집중이라는 것을 알게 되었다.&lt;/p&gt;
 &lt;p&gt;어떤 오픈소스 프로젝트들이 있나 보니까 바로 &lt;strong&gt;Node.js&lt;/strong&gt;가 있었다. 프론트 개발을 하며 &lt;strong&gt;Node.js&lt;/strong&gt;는 정말 빼 놓을 수 없는 중요한 존재이기 때문에 이 프로젝트에 기여하면 내 개발 커리어에 큰 영향을 줄 수 있겠다는 것을 확신했다. 내가 멘티를 모집한다는 것을 알게된 날이 모집을 마감하는 날이었다. 빨리 자소서를 쓰고 내야 겠다는 생각에 조급했지만 내가 이 프로젝트를 잘 참여할 수 있는 근거를 적고 아직 경험없는 대학생이기 때문에 열정을 많이 어필하였다.&lt;/p&gt;
 &lt;h2&gt;기대하던 합격 메일을 받다!&lt;/h2&gt;
